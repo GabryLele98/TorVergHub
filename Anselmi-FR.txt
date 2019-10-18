@@ -1,0 +1,1 @@
+1. The system shall provide a way to carry out reviews about the training material on the website.2. The system shall provide the user to buy training material shared by other users, with the earned points or coins.3. The system shall provide a function to suggest the user to what is the best bus to take at the end of the courses to get home in the shortest possible time.
