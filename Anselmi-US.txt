@@ -1,0 +1,1 @@
+1. As a user, I want to be able to review the training material, so that I can recommend it to other users.2. As a user, I want to earn points or coins by the reviews of training material, so that I can go up in user’s ranking.3. As a student user, I want to know which bus is best to take at the end of the courses, so that I can get home in the shortest possible time.
