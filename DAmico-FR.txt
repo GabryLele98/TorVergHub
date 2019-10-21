@@ -1,0 +1,7 @@
+1. The system shall add a point to a user’s score each time someone upvotes one
+of their threads.
+
+2. The system shall provide a form for users to report failures.
+
+3. The system shall notify the user with an email in case of changes in the code of
+a website they have under “controlled”.

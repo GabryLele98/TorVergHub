@@ -1,0 +1,7 @@
+1. As a user, I want to know when a professor has published something on their
+website, so that I can read it as soon as it happens.
+
+2. As a user, I want a gamification system, so that I am more motivated to post
+and share content.
+
+3. As a moderator, I want an automated flag system, so I can lighten my workload.
