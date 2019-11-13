@@ -1,0 +1,5 @@
+As a user, I want to create a post, so that I can ask questions.
+
+As a user, I want to sort and filter the list of didactic material*, so that I can find what I am looking for.
+
+As a user, I want to find solved exercises about a topic, so that I can study that topic.
