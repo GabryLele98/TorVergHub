@@ -1,0 +1,34 @@
+1 Software Requirement Specification  
+  
+Introduction 
+1. Aim of the document 
+This is an introduction document for our project called "TorVergHub".
+
+2. Overview of the defined system 
+Our project, called "TorVergHub" is meant to be a support platform for students, in particular students from TorVergata university.
+TorVergHub provides several functions useful for students like:
+- sharing of didactic material (shared and ranked by user themselfs).
+- a service of notifications for every professor's webpage.
+- a platform for helping users in their working groups.
+and other less important functions.
+
+3. Operational settings 
+
+
+4. Related systems (at least 2), Pros and Cons. 
+
+a) YouMath.
+YouMath is a website when users can ask questions about maths and they can read other users ' questions.
+YouMath also provides solved exercises about a topic with a little explanation of the theorical aspect of that topic.
+
+Unlike YouMath, our website provides several didactic materials (and not just one) for every topic.
+Also every didactic material in our website is ranked by users, so a user can choose a didactic material among the others.
+
+Another difference is that every user from high school or university can use YouMath while our website is specifically designed for TorVergata's students.
+This means that YouMath is very generic (it has few materials for a lot of topics).
+On the other hand our website is very specific (it has several materials, but for topics related to our courses only).
+
+In the end, our website provides other functions, YouMath does not.
+
+b) MISSING 
+
