@@ -6,7 +6,7 @@ Introduction
 This is an introduction document for our project called "TorVergHub".
 
 2. Overview of the defined system 
-Our project, called "TorVergHub", is meant to be a support platform for students, in particular students from TorVergata university.
+Our project, called "TorVergHub", is meant to be a support platform for students, especially students from TorVergata university.
 TorVergHub provides several functions useful for students such as:
 - the possibility to share and rank didactic material.
 - a service of notifications for every professor's webpage.
@@ -23,11 +23,11 @@ YouMath is a website where users can ask questions about math and read other use
 YouMath also provides solved exercises about a topic with a little explanation of the theorical aspect of that topic.
 
 Unlike YouMath, our website provides several didactic materials (and not just one) for every topic.
-Also every didactic material in our website is ranked by users, so a user can choose a didactic material among the others.
+Also, every didactic material in our website is ranked by users, so a user can choose a didactic material among the others.
 
 Another difference is that while every student from high school or university could use YouMath, our website is specifically aimed at TorVergata students.
 This means that YouMath is very generic (it has few materials for a lot of topics).
-On the other hand our website is very specific (it has several materials, but only about topics related to our courses).
+On the other hand, our website is very specific (it has several materials, but only about topics related to our courses).
 
 Furthermore, our website provides functions that YouMath does not.
 
