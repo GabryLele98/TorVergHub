@@ -14,6 +14,10 @@ TorVergHub provides several functions useful for students such as:
 and other less important functions.
 
 3. Operational settings 
+The system has been developed and tested on Windows 10 and MacOs for a desktop fruition.
+Since it has not been developed with a mobile usage in mind, no adjustment to the layout for mobile visualization has been made.
+It has been programmed in Java jdk 8, using javafx for the desktop program GUI and a mix of html and css for the browser one.
+The intended target are students in Rome who actively attend the university of TorVergata. 
 
 
 4. Related systems (at least 2), Pros and Cons. 
