@@ -1,15 +1,16 @@
 1 Software Requirement Specification  
   
 Introduction 
+
 1. Aim of the document 
 This is an introduction document for our project called "TorVergHub".
 
 2. Overview of the defined system 
-Our project, called "TorVergHub" is meant to be a support platform for students, in particular students from TorVergata university.
-TorVergHub provides several functions useful for students like:
-- sharing of didactic material (shared and ranked by user themselfs).
+Our project, called "TorVergHub", is meant to be a support platform for students, in particular students from TorVergata university.
+TorVergHub provides several functions useful for students such as:
+- the possibility to share and rank didactic material.
 - a service of notifications for every professor's webpage.
-- a platform for helping users in their working groups.
+- a platform to help users with their working groups.
 and other less important functions.
 
 3. Operational settings 
@@ -18,17 +19,26 @@ and other less important functions.
 4. Related systems (at least 2), Pros and Cons. 
 
 a) YouMath.
-YouMath is a website when users can ask questions about maths and they can read other users ' questions.
+YouMath is a website where users can ask questions about math and read other users' questions.
 YouMath also provides solved exercises about a topic with a little explanation of the theorical aspect of that topic.
 
 Unlike YouMath, our website provides several didactic materials (and not just one) for every topic.
 Also every didactic material in our website is ranked by users, so a user can choose a didactic material among the others.
 
-Another difference is that every user from high school or university can use YouMath while our website is specifically designed for TorVergata's students.
+Another difference is that while every student from high school or university could use YouMath, our website is specifically aimed at TorVergata students.
 This means that YouMath is very generic (it has few materials for a lot of topics).
-On the other hand our website is very specific (it has several materials, but for topics related to our courses only).
+On the other hand our website is very specific (it has several materials, but only about topics related to our courses).
 
-In the end, our website provides other functions, YouMath does not.
+Furthermore, our website provides functions that YouMath does not.
 
-b) MISSING 
+b) Google Groups.
+Google Groups is a service that allows users to create discussions and that manages them as threads.
+Its main strong points are its integration in the Google ecosystem and the massive archive of groups it has accumulated via its Usenet groups integration.
+
+Our system does not have such benefits, but its advantage is once again its being tailored to a very specific niche.
+This means that we understand the problems and needs of our userbase and can consequently serve them better than a general system. 
+We know, for instance, that our users will probably need to work on a repository or on a cloud-based drive.
+We can then adapt the group's interface to highlight these specific needs while Google Groups, that serves a general public, cannot.
+
+
 
